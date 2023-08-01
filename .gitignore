@@ -1,0 +1,9 @@
+coverage
+coverage.json
+typechain
+typechain-types
+node_modules
+.env
+
+# Hardhat files
+cache
