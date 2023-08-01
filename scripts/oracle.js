@@ -1,4 +1,4 @@
-// This is a script to implement with a echoes token contract, it will start/ stop randomly events and distribute reflections to the winners.
+// This is a script to implement with an echoes token contract, it will start/ stop randomly events and distribute reflections to the winners.
 // It is better to run this script on a server.
 // It is wise to secure the private key of the treasury account, and to withdraw ETH from this account regularly.
 

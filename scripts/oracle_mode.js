@@ -1,4 +1,4 @@
-// // This is a script to implement with a echoes token contract, it will switch the mode of the contract every 45 minutes for ape and ngmi mode, and every 75 minutes for chill mode.
+// // This is a script to implement with an echoes token contract, it will switch the mode of the contract every 45 minutes for ape and ngmi mode, and every 75 minutes for chill mode.
 // It is better to run this script on a server.
 // It is wise to secure the private key of the treasury account, and to withdraw ETH from this account regularly.
 
